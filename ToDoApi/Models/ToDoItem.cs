@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ToDoApi.Models
+namespace ToDoAPI.Models
 {
     public class ToDoItem
     {
         public int Id { get; set; }
-        public int Task { get; set; }
-        public int Completed { get; set; }     
+        public string Task { get; set; }
+        public bool Completed { get; set; }
     }
 }

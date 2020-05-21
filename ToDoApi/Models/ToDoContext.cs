@@ -1,16 +1,14 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
-
-namespace ToDoApi.Models
+namespace ToDoAPI.Models
 {
     public class ToDoContext : DbContext
     {
-        public ToDoContext(DbContextOptions<ToDoContext> options) : base (options)
+        public ToDoContext(DbContextOptions<ToDoContext> options) : base(options)
         {
         }
         public DbSet<ToDoItem> ToDoItems { get; set; }

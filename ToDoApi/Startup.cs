@@ -11,9 +11,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.EntityFrameworkCore;
-using ToDoApi.Models;
+using ToDoAPI.Models;
 
-namespace ToDoApi
+namespace ToDoAPI
 {
     public class Startup
     {
@@ -27,8 +27,8 @@ namespace ToDoApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllers();
             services.AddDbContext<ToDoContext>(options => options.UseInMemoryDatabase("ToDoList"));
+            services.AddControllers();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
