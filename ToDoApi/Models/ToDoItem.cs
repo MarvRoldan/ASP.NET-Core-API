@@ -9,6 +9,6 @@ namespace ToDoApi.Models
     {
         public int Id { get; set; }
         public int Task { get; set; }
-        public int Completed { get; set; }
+        public int Completed { get; set; }     
     }
 }

@@ -10,8 +10,6 @@ C:\Users\Marvin\Desktop\ToDoApi\ToDoApi\bin\Debug\netcoreapp3.1\ToDoApi.pdb
 C:\Users\Marvin\Desktop\ToDoApi\ToDoApi\obj\Debug\netcoreapp3.1\ToDoApi.csprojAssemblyReference.cache
 C:\Users\Marvin\Desktop\ToDoApi\ToDoApi\obj\Debug\netcoreapp3.1\ToDoApi.AssemblyInfoInputs.cache
 C:\Users\Marvin\Desktop\ToDoApi\ToDoApi\obj\Debug\netcoreapp3.1\ToDoApi.AssemblyInfo.cs
-C:\Users\Marvin\Desktop\ToDoApi\ToDoApi\obj\Debug\netcoreapp3.1\ToDoApi.csproj.CoreCompileInputs.cache
-C:\Users\Marvin\Desktop\ToDoApi\ToDoApi\obj\Debug\netcoreapp3.1\ToDoApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Marvin\Desktop\ToDoApi\ToDoApi\obj\Debug\netcoreapp3.1\ToDoApi.RazorTargetAssemblyInfo.cache
 C:\Users\Marvin\Desktop\ToDoApi\ToDoApi\obj\Debug\netcoreapp3.1\staticwebassets\ToDoApi.StaticWebAssets.Manifest.cache
 C:\Users\Marvin\Desktop\ToDoApi\ToDoApi\obj\Debug\netcoreapp3.1\staticwebassets\ToDoApi.StaticWebAssets.xml
